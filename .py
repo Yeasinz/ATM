@@ -109,5 +109,5 @@ while True:
     break
 
   else:
-    print("error please select the options provide in the main menu")
+    print("error please select the options provided in the main menu")
 
